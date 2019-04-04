@@ -1,0 +1,108 @@
+[Root]
+Most Recent Package=HP Online Print
+
+
+[Package|HP Online Print|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW\Package
+
+[Package|HP Online Print|Configure DAO ISAMs]
+Applicable=No
+
+[Package|HP Online Print|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|HP Online Print|Files Found]
+
+[Package|HP Online Print|Files Released]
+
+[Package|HP Online Print|Missing Dependency Information]
+C:\Program Files\CS6\Lppx2.tlb=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+
+[Package|HP Online Print|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|HP Online Print|Files Added]
+
+[Package|HP Online Print|Files Removed]
+
+[Package|HP Online Print|Files In Project]
+E:\public area\HP_Online_Print20131010.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\CS6\Lppx2.tlb=Yes
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|HP Online Print|Configure Registry Files]
+Applicable=No
+
+[Package|HP Online Print|Configure Remote Servers]
+Applicable=No
+
+[Package|HP Online Print|Install Locations]
+E:\public area\HP_Online_Print20131010.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\CS6\Lppx2.tlb=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|HP Online Print|Configure Shared Files]
+Applicable=Yes
+E:\public area\HP_Online_Print20131010.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|HP Online Print|Distribution]
+Type=single
+Size=
+Title=ConnectPrint
+
+[Package|HP Online Print|IconGroups]
+Group0=ConnectPrint
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|HP Online Print|ConnectPrint]
+Icon1=HP_Online_Print20131010.exe
+Title1=ConnectPrint
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|HP Online Print|Package]
+PackageFolder=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW\Package
+ProjectFolder=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW
+ServerSideCab=
+File1=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW\Package\setup.exe
+File2=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW\Package\Setup.Lst
+File3=\\Sz-app01\Application\Production System\打印软件\HPonline_NEW\Package\HP_Online_Print20131010.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

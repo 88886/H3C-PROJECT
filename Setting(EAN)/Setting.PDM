@@ -1,0 +1,117 @@
+[Root]
+Most Recent Package=Setting(EAN)
+
+
+[Package|Setting(EAN)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\打印软件\Setting(EAN)\包
+
+[Package|Setting(EAN)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Setting(EAN)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setting(EAN)|Files Found]
+
+[Package|Setting(EAN)|Files Released]
+
+[Package|Setting(EAN)|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+
+[Package|Setting(EAN)|Out-of-Date Dependency Information]
+C:\Windows\System32\comdlg32.ocx=
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Setting(EAN)|Files Added]
+
+[Package|Setting(EAN)|Files Removed]
+
+[Package|Setting(EAN)|Files In Project]
+E:\打印软件\Setting(EAN)\Setting(EAN)_20140106.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTCHS.DLL=Yes
+C:\Windows\System32\MSHFGCHS.DLL=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSCC2CHS.DLL=Yes
+C:\Windows\System32\comdlg32.ocx=Yes
+C:\Windows\System32\CMDLGCHS.DLL=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Setting(EAN)|Configure Registry Files]
+Applicable=No
+
+[Package|Setting(EAN)|Configure Remote Servers]
+Applicable=No
+
+[Package|Setting(EAN)|Install Locations]
+E:\打印软件\Setting(EAN)\Setting(EAN)_20140106.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=$(AppPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSHFGCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSCC2CHS.DLL=$(WinSysPath)
+C:\Windows\System32\comdlg32.ocx=$(WinSysPath)
+C:\Windows\System32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Setting(EAN)|Configure Shared Files]
+Applicable=Yes
+E:\打印软件\Setting(EAN)\Setting(EAN)_20140106.exe=Yes
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=Yes
+
+[Package|Setting(EAN)|Distribution]
+Type=single
+Size=
+Title=Setting(EAN)
+
+[Package|Setting(EAN)|Package]
+PackageFolder=E:\打印软件\Setting(EAN)\包
+ProjectFolder=E:\打印软件\Setting(EAN)
+ServerSideCab=
+File1=E:\打印软件\Setting(EAN)\包\setup.exe
+File2=E:\打印软件\Setting(EAN)\包\Setup.Lst
+File3=E:\打印软件\Setting(EAN)\包\Setting(EAN)_20140106.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Setting(EAN)|IconGroups]
+Group0=Setting(EAN)
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Setting(EAN)|Setting(EAN)]
+Icon1=Setting(EAN)_20140106.exe
+Title1=Setting(EAN)
+StartIn1=$(AppPath)
+Key1=Icon1

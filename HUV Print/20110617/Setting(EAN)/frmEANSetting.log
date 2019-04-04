@@ -1,0 +1,10 @@
+Line 26: Class MSComDlg.CommonDialog of control cdSelect was not a loaded control class.
+Line 285: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control mfgHUAWEI was not a loaded control class.
+Line 29: The property name _ExtentX in cdSelect is invalid.
+Line 30: The property name _ExtentY in cdSelect is invalid.
+Line 31: The property name _Version in cdSelect is invalid.
+Line 291: The property name _ExtentX in mfgHUAWEI is invalid.
+Line 292: The property name _ExtentY in mfgHUAWEI is invalid.
+Line 293: The property name _Version in mfgHUAWEI is invalid.
+Line 303: The property name _NumberOfBands in mfgHUAWEI is invalid.
+Line 304: The property name _Band(0).Cols in mfgHUAWEI is invalid.

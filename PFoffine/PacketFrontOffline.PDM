@@ -1,0 +1,124 @@
+[Root]
+Most Recent Package=PacketFront Install
+
+
+[Package|PacketFront Install|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\打印软件\PacketFront\setup
+
+[Package|PacketFront Install|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PacketFront Install|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PacketFront Install|Files Found]
+
+[Package|PacketFront Install|Files Released]
+
+[Package|PacketFront Install|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\CS6\Lppx2.tlb=
+
+[Package|PacketFront Install|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\mshflxgd.ocx=
+
+[Package|PacketFront Install|Files Added]
+
+[Package|PacketFront Install|Files Removed]
+c:\program files\cs6\lppx2.tlb=
+c:\program files\microsoft office\office14\excel.exe=
+
+[Package|PacketFront Install|Files In Project]
+E:\public area\PacketFrontOffline130614.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\Program Files\CS6\Lppx2.tlb=No
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=No
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHS.DLL=Yes
+C:\WINDOWS\system32\mshflxgd.ocx=Yes
+C:\WINDOWS\system32\MSHFGCHS.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|PacketFront Install|Configure Registry Files]
+Applicable=No
+
+[Package|PacketFront Install|Configure Remote Servers]
+Applicable=No
+
+[Package|PacketFront Install|Install Locations]
+E:\public area\PacketFrontOffline130614.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\CS6\Lppx2.tlb=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mshflxgd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|PacketFront Install|Configure Shared Files]
+Applicable=Yes
+E:\public area\PacketFrontOffline130614.exe=Yes
+
+[Package|PacketFront Install|Distribution]
+Type=single
+Size=
+Title=PacketFrontOffline
+
+[Package|PacketFront Install|IconGroups]
+Group0=PacketFrontOffline
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PacketFront Install|PacketFrontOffline]
+Icon1=PacketFrontOffline130614.exe
+Title1=PacketFrontOffline
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|PacketFront Install|Package]
+PackageFolder=E:\打印软件\PacketFront\setup
+ProjectFolder=E:\打印软件\PacketFront
+ServerSideCab=
+File1=E:\打印软件\PacketFront\setup\setup.exe
+File2=E:\打印软件\PacketFront\setup\Setup.Lst
+File3=E:\打印软件\PacketFront\setup\PacketFrontOffline130614.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

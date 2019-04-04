@@ -1,0 +1,10 @@
+Line 26: Class MSComDlg.CommonDialog of control cdSelect was not a loaded control class.
+Line 33: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control mfgHP was not a loaded control class.
+Line 29: The property name _ExtentX in cdSelect is invalid.
+Line 30: The property name _ExtentY in cdSelect is invalid.
+Line 31: The property name _Version in cdSelect is invalid.
+Line 39: The property name _ExtentX in mfgHP is invalid.
+Line 40: The property name _ExtentY in mfgHP is invalid.
+Line 41: The property name _Version in mfgHP is invalid.
+Line 42: The property name _NumberOfBands in mfgHP is invalid.
+Line 43: The property name _Band(0).Cols in mfgHP is invalid.

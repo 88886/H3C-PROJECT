@@ -1,0 +1,24 @@
+Line 35: Class MSComDlg.CommonDialog of control cdSelect was not a loaded control class.
+Line 496: Class MSComCtl2.DTPicker of control dtpValidTo was not a loaded control class.
+Line 518: Class MSComCtl2.DTPicker of control dtpValidFrom was not a loaded control class.
+Line 669: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control mfgHUAWEI was not a loaded control class.
+Line 38: The property name _ExtentX in cdSelect is invalid.
+Line 39: The property name _ExtentY in cdSelect is invalid.
+Line 40: The property name _Version in cdSelect is invalid.
+Line 502: The property name _ExtentX in dtpValidTo is invalid.
+Line 503: The property name _ExtentY in dtpValidTo is invalid.
+Line 504: The property name _Version in dtpValidTo is invalid.
+Line 514: The property name Format in dtpValidTo is invalid.
+Line 515: The property name UpDown in dtpValidTo is invalid.
+Line 516: The property name CurrentDate in dtpValidTo is invalid.
+Line 524: The property name _ExtentX in dtpValidFrom is invalid.
+Line 525: The property name _ExtentY in dtpValidFrom is invalid.
+Line 526: The property name _Version in dtpValidFrom is invalid.
+Line 536: The property name Format in dtpValidFrom is invalid.
+Line 537: The property name UpDown in dtpValidFrom is invalid.
+Line 538: The property name CurrentDate in dtpValidFrom is invalid.
+Line 675: The property name _ExtentX in mfgHUAWEI is invalid.
+Line 676: The property name _ExtentY in mfgHUAWEI is invalid.
+Line 677: The property name _Version in mfgHUAWEI is invalid.
+Line 687: The property name _NumberOfBands in mfgHUAWEI is invalid.
+Line 688: The property name _Band(0).Cols in mfgHUAWEI is invalid.

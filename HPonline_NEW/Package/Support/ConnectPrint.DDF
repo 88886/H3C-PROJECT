@@ -1,0 +1,32 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="HP_Online_Print20131010.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"HP_Online_Print20131010.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"msado27.tlb"
+"Lppx2.tlb"
+"MSCDRUN.DLL"
+"MSRDO20.DLL"
+"RDOCURS.DLL"
+"scrrun.dll"
+"msvcrt.dll"
+"MDAC_TYP.EXE"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"

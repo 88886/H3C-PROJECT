@@ -1,0 +1,6 @@
+行 24: 控件 mfgH3C 的类 MSHierarchicalFlexGridLib.MSHFlexGrid 不是一个已加载的控件类。
+行 30: 属性名 _ExtentX 在 mfgH3C 中是无效的。
+行 31: 属性名 _ExtentY 在 mfgH3C 中是无效的。
+行 32: 属性名 _Version 在 mfgH3C 中是无效的。
+行 33: 属性名 _NumberOfBands 在 mfgH3C 中是无效的。
+行 34: 属性名 _Band(0).Cols 在 mfgH3C 中是无效的。

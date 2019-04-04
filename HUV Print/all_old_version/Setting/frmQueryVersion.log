@@ -1,0 +1,9 @@
+Line 57: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control mfgVersion was not a loaded control class.
+Line 63: The property name _ExtentX in mfgVersion is invalid.
+Line 64: The property name _ExtentY in mfgVersion is invalid.
+Line 65: The property name _Version in mfgVersion is invalid.
+Line 66: The property name SelectionMode in mfgVersion is invalid.
+Line 67: The property name AllowUserResizing in mfgVersion is invalid.
+Line 85: The property name FontFixed in mfgVersion is invalid.
+Line 86: The property name _NumberOfBands in mfgVersion is invalid.
+Line 87: The property name _Band(0).Cols in mfgVersion is invalid.

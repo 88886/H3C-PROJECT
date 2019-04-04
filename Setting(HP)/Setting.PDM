@@ -1,0 +1,114 @@
+[Root]
+Most Recent Package=Setting(HP)
+
+
+[Package|Setting(HP)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\´òÓ¡Èí¼þ\Setting(HP)\°ü
+
+[Package|Setting(HP)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Setting(HP)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setting(HP)|Files Found]
+
+[Package|Setting(HP)|Files Released]
+
+[Package|Setting(HP)|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=
+
+[Package|Setting(HP)|Out-of-Date Dependency Information]
+C:\Windows\System32\comdlg32.ocx=
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|Setting(HP)|Files Added]
+
+[Package|Setting(HP)|Files Removed]
+
+[Package|Setting(HP)|Files In Project]
+E:\public test\Setting(HP)_20140609(´ý²âÊÔ).exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTCHS.DLL=Yes
+C:\Windows\System32\MSHFGCHS.DLL=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSCC2CHS.DLL=Yes
+C:\Windows\System32\comdlg32.ocx=Yes
+C:\Windows\System32\CMDLGCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Setting(HP)|Configure Registry Files]
+Applicable=No
+
+[Package|Setting(HP)|Configure Remote Servers]
+Applicable=No
+
+[Package|Setting(HP)|Install Locations]
+E:\public test\Setting(HP)_20140609(´ý²âÊÔ).exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=$(AppPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSHFGCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSCC2CHS.DLL=$(WinSysPath)
+C:\Windows\System32\comdlg32.ocx=$(WinSysPath)
+C:\Windows\System32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Setting(HP)|Configure Shared Files]
+Applicable=Yes
+E:\public test\Setting(HP)_20140609(´ý²âÊÔ).exe=Yes
+C:\Program Files\Microsoft Office\Office14\EXCEL.EXE=Yes
+
+[Package|Setting(HP)|Distribution]
+Type=single
+Size=
+Title=Setting(HP)
+
+[Package|Setting(HP)|IconGroups]
+Group0=Setting
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Setting(HP)|Setting]
+Icon1=Setting(HP)_20140609(´ý²âÊÔ).exe
+Title1=Setting(HP)
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Setting(HP)|Package]
+PackageFolder=E:\´òÓ¡Èí¼þ\Setting(HP)\°ü
+ProjectFolder=E:\´òÓ¡Èí¼þ\Setting(HP)
+ServerSideCab=
+File1=E:\´òÓ¡Èí¼þ\Setting(HP)\°ü\setup.exe
+File2=E:\´òÓ¡Èí¼þ\Setting(HP)\°ü\Setup.Lst
+File3=E:\´òÓ¡Èí¼þ\Setting(HP)\°ü\Setting(HP)_20140609(´ý²âÊÔ).CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

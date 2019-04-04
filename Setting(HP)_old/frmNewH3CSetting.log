@@ -1,0 +1,9 @@
+行 907: 控件 mfgH3C 的类 MSHierarchicalFlexGridLib.MSHFlexGrid 不是一个已加载的控件类。
+行 913: 属性名 _ExtentX 在 mfgH3C 中是无效的。
+行 914: 属性名 _ExtentY 在 mfgH3C 中是无效的。
+行 915: 属性名 _Version 在 mfgH3C 中是无效的。
+行 916: 属性名 SelectionMode 在 mfgH3C 中是无效的。
+行 917: 属性名 AllowUserResizing 在 mfgH3C 中是无效的。
+行 918: 属性名 RowSizingMode 在 mfgH3C 中是无效的。
+行 928: 属性名 _NumberOfBands 在 mfgH3C 中是无效的。
+行 929: 属性名 _Band(0).Cols 在 mfgH3C 中是无效的。

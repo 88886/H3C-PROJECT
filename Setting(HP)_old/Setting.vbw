@@ -1,0 +1,13 @@
+frmMain = 52, 52, 888, 584, C, 26, 26, 945, 558, C
+frmUsers = 0, 0, 0, 0, C, -11, 264, 908, 796, C
+frmVariables = 87, -8, 979, 524, , 90, 84, 1009, 616, C
+frmQueryVersion = 0, 0, 0, 0, C, -12, 159, 907, 691, C
+Connect = 97, 59, 933, 591, C
+frmHUAWEISetting = 104, 104, 903, 624, C, 208, 208, 1044, 740, C
+frmH3C_3COMSetting = 52, 52, 851, 572, C, -28, 132, 891, 664, C
+frmHPSetting = 0, 0, 0, 0, C, 52, 52, 971, 584, C
+frmHUVSetting = 20, 72, 856, 604, C, 3, 2, 1066, 749, C
+frmH3CSetting = 208, 208, 1007, 728, C, 104, 104, 1023, 636, C
+frmH3C2DSetting = 148, 145, 947, 665, C, 95, 19, 1014, 551, C
+frmNewH3CSetting = 156, 156, 955, 676, C, 78, 78, 914, 610, C
+frmOthers = 0, 0, 0, 0, C, 104, 104, 940, 636, C

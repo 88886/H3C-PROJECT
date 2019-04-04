@@ -1,0 +1,129 @@
+[Root]
+Most Recent Package=BU1小项目打印
+
+
+[Package|BU1小项目打印|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\VB Project\包
+
+[Package|BU1小项目打印|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|BU1小项目打印|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|BU1小项目打印|Files Found]
+
+[Package|BU1小项目打印|Files Released]
+
+[Package|BU1小项目打印|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\CS6\Lppx2.tlb=
+
+[Package|BU1小项目打印|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mshflxgd.ocx=
+
+[Package|BU1小项目打印|Files Added]
+
+[Package|BU1小项目打印|Files Removed]
+
+[Package|BU1小项目打印|Files In Project]
+E:\public area\BU1小项目打印20130819.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\Program Files\CS6\Lppx2.tlb=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\msjet35.dll=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\msjint35.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\msrepl35.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHS.DLL=Yes
+C:\WINDOWS\system32\mshflxgd.ocx=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSHFGCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|BU1小项目打印|Configure Registry Files]
+Applicable=No
+
+[Package|BU1小项目打印|Configure Remote Servers]
+Applicable=No
+
+[Package|BU1小项目打印|Install Locations]
+E:\public area\BU1小项目打印20130819.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\CS6\Lppx2.tlb=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mshflxgd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|BU1小项目打印|Configure Shared Files]
+Applicable=Yes
+E:\public area\BU1小项目打印20130819.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|BU1小项目打印|Distribution]
+Type=single
+Size=
+Title=BU1小项目打印
+
+[Package|BU1小项目打印|IconGroups]
+Group0=BU1小项目打印
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|BU1小项目打印|BU1小项目打印]
+Icon1=BU1小项目打印20130819.exe
+Title1=BU1小项目打印
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|BU1小项目打印|Package]
+PackageFolder=D:\VB Project\包
+ProjectFolder=D:\VB Project
+ServerSideCab=
+File1=D:\VB Project\包\setup.exe
+File2=D:\VB Project\包\Setup.Lst
+File3=D:\VB Project\包\BU1小项目打印20130819.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

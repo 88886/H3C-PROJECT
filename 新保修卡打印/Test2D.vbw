@@ -1,0 +1,8 @@
+Connect = 73, 10, 1079, 541, C
+frmH3CPrintWarranty = 56, 71, 881, 564, , 20, 24, 911, 531, C
+Label_History = 70, 53, 813, 585, C
+frmLogin = 66, 116, 1047, 573, , 150, 150, 1065, 607, C
+Main = 88, 168, 1200, 816, , 132, 76, 1244, 724, C
+frmH3CPrintWarrantyByPart = 133, 110, 1085, 758, , 78, 78, 1190, 726, C
+frmNiXiangH3CPrintWarranty = 260, 260, 1453, 908, , 234, 234, 1427, 882, C
+frmUINSPrintWarranty = 182, 182, 1273, 858, Z, 26, 26, 1117, 702, C
